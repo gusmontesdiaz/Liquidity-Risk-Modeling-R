@@ -21,7 +21,7 @@ The model predicts the percentage change in various bank deposits based on:
 * **Dependent Variables:** Percentage Change in Demand, Time, and Traditional Deposits (e.g., `Depositos_Vista_TBM_ln`).
 * **Key Predictors:** A wide array of macroeconomic time-series data, including Inflation, Unemployment Rate, TIIE (Interbank Interest Rate), GDP, various consumer confidence indices, and exchange rate metrics.
 
-## ✨ Value Proposition for the Analyst Role
+## ✨ Value Proposition 
 
 * **Expertise in Liquidity Risk:** Direct, proven experience in a specialized area of financial risk management.
 * **Statistical Rigor:** Demonstrated discipline in building and formally validating predictive models using advanced statistical testing (Kolmogorov-Smirnov).
